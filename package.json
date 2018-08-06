@@ -1,0 +1,35 @@
+{
+  "name": "vas-style",
+  "version": "1.0.0",
+  "description": "VAS's approach to JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "markdownlint --config .markdownlint.json README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vas-dev/javascript.git"
+  },
+  "keywords": [
+    "style",
+    "guide",
+    "lint",
+    "vas",
+    "es6",
+    "es2015",
+    "es2106",
+    "es2017",
+    "react",
+    "jsx"
+  ],
+  "author": "Marcelo Alves <marcelo.alves@vas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vas-dev/javascript/issues"
+  },
+  "homepage": "https://github.com/vas-dev/javascript#readme",
+  "dependencies": {
+    "markdownlint-cli": "^0.12.0"
+  }
+}
